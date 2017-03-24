@@ -17,7 +17,7 @@ This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLU
 
 This is Open Hardware DSP Platform AmpTwo Module. 
 
-This is a dual indepentand stereo headphone amplifier with analogue voluem control. All 4 channels are fed from different DAC outputs from the ADAU1966 DAC module.
+This is a dual independant stereo headphone amplifier with analogue volume control. All 4 channels are fed from different DAC outputs from the ADAU1966 DAC module.
 
 This repository contains the KiCad design files, manufacturing Gerber/drill files, PDF/drawing files, and relevant documenation for this board.
 
